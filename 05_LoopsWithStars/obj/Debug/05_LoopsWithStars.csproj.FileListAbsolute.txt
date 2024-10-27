@@ -1,0 +1,7 @@
+C:\Users\Yasar\source\repos\c#egitimkampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\Users\Yasar\source\repos\c#egitimkampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\Users\Yasar\source\repos\c#egitimkampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\Users\Yasar\source\repos\c#egitimkampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\Yasar\source\repos\c#egitimkampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\Yasar\source\repos\c#egitimkampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\Users\Yasar\source\repos\c#egitimkampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb
